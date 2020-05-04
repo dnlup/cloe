@@ -1,0 +1,2 @@
+# cloe
+Configuration loader/validator
